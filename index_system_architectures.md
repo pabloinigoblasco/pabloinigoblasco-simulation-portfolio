@@ -1,6 +1,6 @@
 # Pablo Iñigo Blasco - System Architecture & Integration Portfolio
 
-Technical portfolio demonstrating expertise in complex multi-platform robotics integration, cross-language system architecture, and novel technology stacks. Focus on ROS2-based architectures integrating embedded systems, mobile platforms, and edge AI computing.
+Technical portfolio showcasing a selection of system architecture and integration projects in this area that I have been able to work on and that are publicly available or I have permission to show. This portfolio demonstrates expertise in complex multi-platform robotics integration, cross-language system architecture, and novel technology stacks. Focus on ROS2-based architectures integrating embedded systems, mobile platforms, and edge AI computing.
 
 ---
 
@@ -34,7 +34,7 @@ Technical portfolio demonstrating expertise in complex multi-platform robotics i
       <a href="https://www.linkedin.com/posts/pabloinigoblasco_in-the-last-few-months-i-had-the-opportunity-activity-7103189317027586048-f-89">Technical Architecture</a> · <a href="https://www.linkedin.com/posts/qmartinez_mrlink-in-neurondones-activity-7321147566786531328-ZLRL/">MRLink Post</a>
     </td>
     <td width="45%">
-      <img src="https://github.com/user-attachments/assets/placeholder-mrlink" alt="MRLink VR Navigation Architecture" width="500px">
+      <img src="assets/mrlink-combined.png" alt="MRLink VR Navigation Architecture" width="500px">
     </td>
   </tr>
 </table>
@@ -71,7 +71,7 @@ Technical portfolio demonstrating expertise in complex multi-platform robotics i
       <a href="https://www.linkedin.com/posts/jcanton_neurondones-evergine-ros2-activity-7389571943223517184-mHrK">Technical Demo</a>
     </td>
     <td width="45%">
-      <img src="https://github.com/user-attachments/assets/placeholder-neurondones" alt="NeuronDones Manipulation Architecture" width="500px">
+      <img src="assets/neurondones-combined.png" alt="NeuronDones Manipulation Architecture" width="500px">
     </td>
   </tr>
 </table>

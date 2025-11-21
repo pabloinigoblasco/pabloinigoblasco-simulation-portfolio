@@ -1,6 +1,6 @@
 # Pablo Iñigo Blasco - Robot Simulation Portfolio - Demos and Technology Samples
 
-This portfolio showcases a selection of publicly available simulation projects, created independently or with teams under my leadership, using a variety of robotics simulation platforms. These demos are representative examples, illustrating the full lifecycle of simulation development with an emphasis on practical applications and realistic robotic behavior.
+This portfolio showcases a selection of simulation projects in this area that I have been able to work on and that are publicly available or I have permission to show. These demos are representative examples of projects created independently or with teams under my leadership, illustrating the full lifecycle of simulation development with an emphasis on practical applications and realistic robotic behavior.
 
 ---
 

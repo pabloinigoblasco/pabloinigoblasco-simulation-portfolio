@@ -1,6 +1,6 @@
 # Pablo Iñigo Blasco - AI Perception & Cognitive Systems Portfolio
 
-Technical portfolio showcasing advanced computer vision, AI perception systems, and cognitive robotics applications. Focus on real-world deployment of AI-driven perception for safety, surveillance, and intelligent robot behavior.
+Technical portfolio showcasing a selection of AI perception and cognitive systems projects in this area that I have been able to work on and that are publicly available or I have permission to show. This portfolio demonstrates advanced computer vision, AI perception systems, and cognitive robotics applications. Focus on real-world deployment of AI-driven perception for safety, surveillance, and intelligent robot behavior.
 
 ---
 
