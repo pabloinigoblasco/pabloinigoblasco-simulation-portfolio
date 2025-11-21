@@ -12,7 +12,7 @@ Complete index of all projects across portfolios, showing project keys and portf
 | **P002** | IsaacSim Warehouse Exploration | ✅ | - | ✅ | - | Nova Carter AMR exploration with RRT algorithms, Nav2 stack, and slam_toolbox integration | [Video](https://www.dropbox.com/scl/fi/5hy5m0yzjc7wx0zyhlg6v/Autonomous-Exploration-Mapping-with-SMACC-inside-Isaac-Sim-XS5ktWK9F7w.webm?rlkey=nykxxwc8a3u7g57d2ftecm7uw&dl=0) \| [LinkedIn](https://www.linkedin.com/posts/pabloinigoblasco_id-like-to-show-off-an-autonomous-exploration-activity-7122635798205652992-u2xs) |
 | **P003** | IsaacSim Wheeled Robot Kinematics | ✅ | - | - | - | Multi-wheeled robot kinematic control testing | [Video](https://www.dropbox.com/scl/fi/1suxnatav0icx3rtibpxr/2024-01-11-11-23-45_x_steer_isaacsim.mkv?rlkey=uh4yt35xz8jck777cvf5llr6k&dl=0) |
 | **P004** | ROS2 Navigation + Unreal Engine | ✅ | - | - | - | Navigation stack integration with Unreal Engine | [Video](https://www.dropbox.com/scl/fi/7s3d8c1pth8kllrj8ot9n/2023-08-15-23-16-09-unreal-engine-art-gallery.mp4?rlkey=tki20qnaosl4l6o58yxz6bnvb&dl=0) |
-| **P005** | Wheeled Mobile Robot Kinematic Research | ✅ | - | - | - | Research in various wheeled robot configurations | [Video](https://www.dropbox.com/scl/fi/esx5pkcg8r8fc38mzmcvx/2023.12-VIDEO-resumen-xsteer-control-multiple-wheels-gazebo.mp4?rlkey=pndtb57979nmgo16exifyh0vo&dl=0) |
+| **P005** | Wheeled Mobile Robot Kinematic Research | ✅ | - | ✅ | - | Research in various wheeled robot configurations and controller design | [Video 1](https://www.dropbox.com/scl/fi/esx5pkcg8r8fc38mzmcvx/2023.12-VIDEO-resumen-xsteer-control-multiple-wheels-gazebo.mp4?rlkey=pndtb57979nmgo16exifyh0vo&dl=0) \| [Video 2](https://www.dropbox.com/scl/fi/twt1yftzmzue24pqz5rdb/2024-01-09-multiwheel_x_steer_isaacsim.mkv?rlkey=nx0xdiwklp2cuprbm9lpqxard&dl=0) |
 | **P006** | Real-Time Shared Control DWA | ✅ | - | ✅ | - | Dynamic Window Approach for shared human-robot control | [Video](https://www.dropbox.com/scl/fi/ihtyuemfca62pxjst077x/2011.Shared-Control-Dynamic-Window-Approach-Shared-DWA-uSe893aEYEk.mp4?rlkey=j5m7e1e06qxptxrib9u39ekjv&dl=0) |
 | **P007** | AIRSIM Cloud Batch Testing | ✅ | - | - | - | Microsoft Azure cloud testing for AIRSIM simulator | [Video](https://www.dropbox.com/scl/fi/79mcdakyy5q60whp7hbj3/AIRSIM-cloud-testing.mp4?dl=0) |
 | **P008** | Warhog Mining Navigation | ✅ | - | - | - | Unreal Engine mining robot navigation | [Video](https://www.dropbox.com/scl/fi/hdyhm1dc7gk0k9al3fyk2/2023-08-29-SMACC2-unreal-UE-mine-warhog-waypoints.mp4?rlkey=e8b1arq6irw9qgdk00hf06y8m&dl=0) |
@@ -42,9 +42,9 @@ Complete index of all projects across portfolios, showing project keys and portf
 
 ### 🎯 **Motion Planning Portfolio** (`index_motion_planning.md`)
 **Focus:** Control algorithms, motion planning, and precision systems
-- **4 Projects:** P002, P006, P009, P015
-- **Technologies:** RRT Exploration, Nav2 Stack, slam_toolbox, Dynamic Window Approach, Visual Servoing, Tricycle Kinematics, Ackermann Steering, TEB Planner
-- **Applications:** Autonomous exploration, shared control, precision docking, human-robot collaboration, autonomous navigation
+- **5 Projects:** P002, P005, P006, P009, P015
+- **Technologies:** RRT Exploration, Nav2 Stack, slam_toolbox, Dynamic Window Approach, Visual Servoing, Multi-Wheel Kinematics, Controller Design, Tricycle Kinematics, Ackermann Steering, TEB Planner
+- **Applications:** Autonomous exploration, kinematic controller research, shared control, precision docking, human-robot collaboration, autonomous navigation
 
 ### 🧠 **AI Perception & Cognitive Portfolio** (`index_ai_perception.md`)
 **Focus:** Computer vision, cognitive systems, and AI-driven robot perception
@@ -59,6 +59,10 @@ Complete index of all projects across portfolios, showing project keys and portf
 ### **P002 - IsaacSim Warehouse Exploration**
 - **Simulation View:** NVIDIA IsaacSim platform demonstration and Nova Carter AMR simulation
 - **Motion Planning View:** RRT exploration algorithms, autonomous mapping, and SMACC mission planning
+
+### **P005 - Wheeled Mobile Robot Kinematic Research**
+- **Simulation View:** Multi-platform testing in Gazebo and IsaacSim for kinematic validation
+- **Motion Planning View:** Controller design and kinematic modeling for various wheeled configurations
 
 ### **P006 - Real-Time Shared Control DWA**
 - **Simulation View:** Stage simulator implementation and testing

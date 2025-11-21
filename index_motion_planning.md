@@ -87,3 +87,26 @@ This project involved taking a physical mobile platform and implementing a compl
 </table>
 
 ---
+
+## [P005 - Advanced Kinematic Controllers: Multi-Wheel Configuration Research](https://www.dropbox.com/scl/fi/esx5pkcg8r8fc38mzmcvx/2023.12-VIDEO-resumen-xsteer-control-multiple-wheels-gazebo.mp4?rlkey=pndtb57979nmgo16exifyh0vo&dl=0)
+
+<table class="content-table">
+  <tr>
+    <td width="55%">
+      This project was all about designing and implementing controllers for various wheeled robot configurations, demonstrating authority in kinematic modeling and dynamic control across different platforms. I developed controllers for everything from standard differential drive to complex redundant steering systems, exploring the full spectrum of wheeled robot kinematics.
+      <br><br>
+      Working with multiple kinematic models - differential drive, tricycle, two-steer, and x-steer (redundant) configurations - I created custom controllers that could handle the unique constraints and capabilities of each system. The challenge was developing unified control approaches while respecting the specific kinematic and dynamic properties of each configuration.
+      <br><br>
+      What made this particularly interesting was implementing these controllers in both simulation environments: Gazebo for traditional testing and IsaacSim for more advanced physics simulation. This dual-platform approach allowed me to validate the controllers under different simulation conditions and demonstrate their robustness across various scenarios.
+      <br><br>
+      This work established authority in controller design and kinematic/dynamic control, showing how to systematically approach different wheeled robot configurations and create effective control strategies for each.
+      <br><br>
+      <strong>Videos:</strong> <a href="https://www.dropbox.com/scl/fi/esx5pkcg8r8fc38mzmcvx/2023.12-VIDEO-resumen-xsteer-control-multiple-wheels-gazebo.mp4?rlkey=pndtb57979nmgo16exifyh0vo&dl=0">Gazebo Implementation</a> · <a href="https://www.dropbox.com/scl/fi/twt1yftzmzue24pqz5rdb/2024-01-09-multiwheel_x_steer_isaacsim.mkv?rlkey=nx0xdiwklp2cuprbm9lpqxard&dl=0">IsaacSim Version</a>
+    </td>
+    <td width="45%">
+      <img src="https://github.com/user-attachments/assets/e14bca78-9e18-4e72-a831-a98055eacc54" alt="Multi-Wheel Kinematic Controllers" width="500px">
+    </td>
+  </tr>
+</table>
+
+---
