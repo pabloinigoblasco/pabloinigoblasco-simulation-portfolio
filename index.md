@@ -138,6 +138,16 @@ This portfolio showcases a selection of publicly available simulation projects, 
   </tr>
 </table>
 
+--
+
+## [IsaacSim – Carter Tricycle Docking & Battery Charging](https://www.dropbox.com/scl/fi/3stscugoptervds65ujqx/Dance-Party-at-AWS-Warehouse-Demo-1-gLH37M3e4e0.mkv?rlkey=izwjhwlei878nc9i16lk7r1id&dl=0)
+<table class="content-table"> <tr> <td width="55%"> This advanced IsaacSim demonstration implements a full docking and battery-charging workflow for the Carter tricycle robot. The system combines **visual servoing**, using both 3D foundation pose estimation of the docking geometry and 2D AprilTag markers, with mission-level orchestration powered by **SMACC2**. The robot performs multiple navigation tasks in a warehouse environment, autonomously approaching the dock, aligning, and completing the charging maneuver with sub-centimeter precision. <br><br> <a href="https://www.dropbox.com/scl/fi/53u29nr03z9l0xowdfp3y/2025.5-isaacsim-carter-dock-battery-charge.mp4?rlkey=ynzuqfl5phmy52ksq3xerczjj&dl=0">Watch Video</a> </td> <td width="45%"> <img src="isaacsim-carter-dock-battery-charge.png" alt="IsaacSim Carter Docking and Battery Charging" width="500px"> </td> </tr> </table>
+
+--
+
+## [Warehouse Mission-Level Navigation & Dancing Demo (Gazebo + Nav2 + SMACC2)] (https://www.dropbox.com/scl/fi/3stscugoptervds65ujqx/Dance-Party-at-AWS-Warehouse-Demo-1-gLH37M3e4e0.mkv?rlkey=izwjhwlei878nc9i16lk7r1id&dl=0)
+<table class="content-table"> <tr> <td width="55%"> This Gazebo Classic demonstration shows mission-level behaviors orchestrated using **SMACC2** together with the **Navigation2** stack. A differential-drive robot executes a variety of scripted capabilities: forward and backward trajectories, pure spin motions, free navigation, trajectory undoing, and a coordinated “dance routine” inside a warehouse environment. The demo highlights how SMACC2 can express high-level robot behavior sequences on top of Nav2 primitives. <br><br> **Videos:** <a href="https://www.dropbox.com/scl/fi/3stscugoptervds65ujqx/Dance-Party-at-AWS-Warehouse-Demo-1-gLH37M3e4e0.mkv?rlkey=izwjhwlei878nc9i16lk7r1id&dl=0">Demo 1</a> · <a href="https://www.dropbox.com/scl/fi/uyq7pqbp2z6413pogawwn/Dance-Party-at-AWS-Warehouse-Demo-2-A3kmCQS_ww8.mkv?rlkey=z0cvx7nhpcy5i72in3wp221pg&dl=0">Demo 2</a> · <a href="https://www.dropbox.com/scl/fi/7tbyr3a04w4k7ntsshmfe/Dance-Party-at-AWS-Warehouse-Demo-3-_4QZdvdTptI.mkv?rlkey=bgahwp6m6sh453i4rs1a0wa2d&dl=0">Demo 3</a> </td> <td width="45%"> <img src="aws-warehouse-dance-demo.png" alt="Warehouse Robot Dancing Demo with Nav2 and SMACC2" width="500px"> </td> </tr> </table>
+
 ---
 
 ## [Navigation and Manipulation with ROS2 in Gazebo Classic](https://www.dropbox.com/scl/fi/79mcdakyy5q60whp7hbj3/Navigation-Manipulation-Gazebo.mp4?dl=0)
