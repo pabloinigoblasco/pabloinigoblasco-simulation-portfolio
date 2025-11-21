@@ -104,7 +104,7 @@ This project involved taking a physical mobile platform and implementing a compl
       <strong>Videos:</strong> <a href="https://www.dropbox.com/scl/fi/esx5pkcg8r8fc38mzmcvx/2023.12-VIDEO-resumen-xsteer-control-multiple-wheels-gazebo.mp4?rlkey=pndtb57979nmgo16exifyh0vo&dl=0">Gazebo Implementation</a> · <a href="https://www.dropbox.com/scl/fi/twt1yftzmzue24pqz5rdb/2024-01-09-multiwheel_x_steer_isaacsim.mkv?rlkey=nx0xdiwklp2cuprbm9lpqxard&dl=0">IsaacSim Version</a>
     </td>
     <td width="45%">
-      <img src="https://github.com/user-attachments/assets/e14bca78-9e18-4e72-a831-a98055eacc54" alt="Multi-Wheel Kinematic Controllers" width="500px">
+      <img src="assets/p05_kynodinamic_wheel_control.png" alt="Multi-Wheel Kinematic Controllers" width="500px">
     </td>
   </tr>
 </table>
