@@ -18,7 +18,7 @@ This project was quite exciting because it involved porting and adapting RRT (Ra
       <a href="https://www.dropbox.com/scl/fi/5hy5m0yzjc7wx0zyhlg6v/Autonomous-Exploration-Mapping-with-SMACC-inside-Isaac-Sim-XS5ktWK9F7w.webm?rlkey=nykxxwc8a3u7g57d2ftecm7uw&dl=0">Watch Video</a> · <a href="https://www.linkedin.com/posts/pabloinigoblasco_id-like-to-show-off-an-autonomous-exploration-activity-7122635798205652992-u2xs">LinkedIn Post</a>
     </td>
     <td width="45%">
-      <img src="https://github.com/user-attachments/assets/95586036-07a4-45b3-b3e0-12ce433c3119" alt="RRT Autonomous Exploration Planning" width="500px">
+      <img src="assets/p02_isaacsim_warehouse_exploration.png" alt="RRT Autonomous Exploration Planning" width="500px">
     </td>
   </tr>
 </table>
@@ -39,7 +39,7 @@ This was one of my earlier research projects that I'm particularly proud of - de
       <a href="https://www.dropbox.com/scl/fi/ihtyuemfca62pxjst077x/2011.Shared-Control-Dynamic-Window-Approach-Shared-DWA-uSe893aEYEk.mp4?rlkey=j5m7e1e06qxptxrib9u39ekjv&dl=0">Watch Video</a>
     </td>
     <td width="45%">
-      <img src="https://github.com/user-attachments/assets/edbb9f96-e256-4a6d-a038-adf03503c368" alt="Shared Control DWA Motion Planning" width="500px">
+      <img src="assets/p06_shared_control_dwa.png" alt="Shared Control DWA Motion Planning" width="500px">
     </td>
   </tr>
 </table>
