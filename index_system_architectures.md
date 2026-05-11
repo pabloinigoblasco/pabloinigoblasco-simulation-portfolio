@@ -44,12 +44,12 @@ This project focused on creating an integrated manipulation system for hazardous
       <br><br>
       This was actually the first VR-based multi-robot manipulation system for hazardous environments with integrated haptic feedback.
       <br><br>
-      <strong>Videos:</strong> <a href="assets/neuron_dones.mp4">Main Demo</a> · <a href="https://www.dropbox.com/scl/fi/4w2duihdmz7fjrueyl2rd/2024-04-17_09-38-06-demo2-neuron-dones-xarm.mkv?rlkey=cmun89u4gmdjq6rli5ngnw64e&dl=0">xArm Integration (WIP)</a>
+      <strong>Videos:</strong> <a href="https://www.dropbox.com/scl/fi/6eq4sluf831by4va17mdk/neuron_dones-final-result-marketing-2025.mp4?rlkey=st3vscb0tlqb0qh3swx1c9z7q&dl=0">Main Demo</a> · <a href="https://www.dropbox.com/scl/fi/4w2duihdmz7fjrueyl2rd/2024-04-17_09-38-06-demo2-neuron-dones-xarm.mkv?rlkey=cmun89u4gmdjq6rli5ngnw64e&dl=0">xArm Integration (WIP)</a>
       <br><br>
       <a href="https://www.linkedin.com/posts/jcanton_neurondones-evergine-ros2-activity-7389571943223517184-mHrK">Technical Demo</a>
     </td>
     <td width="45%">
-      <a href="assets/neuron_dones.mp4"><img src="assets/neurondones-combined.png" alt="NeuronDones Manipulation Architecture" width="500px"></a>
+      <a href="https://www.dropbox.com/scl/fi/6eq4sluf831by4va17mdk/neuron_dones-final-result-marketing-2025.mp4?rlkey=st3vscb0tlqb0qh3swx1c9z7q&dl=0"><img src="assets/neurondones-combined.png" alt="NeuronDones Manipulation Architecture" width="500px"></a>
     </td>
   </tr>
 </table>
