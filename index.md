@@ -5,17 +5,17 @@ This portfolio showcases a selection of simulation projects in this area that I 
 ---
 
 <a id="P001"></a>
-## [P001 - Autoware and SVL Simulation for Autonomous Vehicles](https://www.dropbox.com/scl/fi/ygnbxx0pqw6shmrgc01pa/2022-01-21-21-05-19_2-autoware-Final.mp4?rlkey=3isp8b2jccr71of2l99mluf93&dl=0)
+## [P001 - Autoware and SVL Simulation for Autonomous Vehicles](https://www.dropbox.com/scl/fi/ylycwdg4t8675c58ovwyr/autoware-final-4x-cut70-plus-lanechange-3x.mp4?rlkey=xstssh1qv8brgaqdilhi8fmmo&dl=0)
 
 <table class="content-table">
   <tr>
     <td width="55%">
       Using the SVL simulator, this project involved integrating the Autoware framework with SMACC-based state machine control for autonomous vehicle navigation. This project provided in-depth exposure to autonomous vehicle architecture, from route planning to motion control, and served as a comprehensive testbed for full vehicle navigation stacks.
       <br><br>
-      <a href="https://www.dropbox.com/scl/fi/ygnbxx0pqw6shmrgc01pa/2022-01-21-21-05-19_2-autoware-Final.mp4?rlkey=3isp8b2jccr71of2l99mluf93&dl=0">Watch Video</a>
+      <a href="https://www.dropbox.com/scl/fi/ylycwdg4t8675c58ovwyr/autoware-final-4x-cut70-plus-lanechange-3x.mp4?rlkey=xstssh1qv8brgaqdilhi8fmmo&dl=0">Watch Video</a>
     </td>
     <td width="45%">
-      <a href="https://www.dropbox.com/scl/fi/ygnbxx0pqw6shmrgc01pa/2022-01-21-21-05-19_2-autoware-Final.mp4?rlkey=3isp8b2jccr71of2l99mluf93&dl=0"><img src="assets/p01_autoware_svl_simulation.png" alt="Autoware and SVL Simulation for Autonomous Vehicles" width="500px"></a>
+      <a href="https://www.dropbox.com/scl/fi/ylycwdg4t8675c58ovwyr/autoware-final-4x-cut70-plus-lanechange-3x.mp4?rlkey=xstssh1qv8brgaqdilhi8fmmo&dl=0"><img src="assets/p01_autoware_svl_simulation.png" alt="Autoware and SVL Simulation for Autonomous Vehicles" width="500px"></a>
     </td>
   </tr>
 </table>
