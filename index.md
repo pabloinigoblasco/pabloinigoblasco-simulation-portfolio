@@ -140,7 +140,7 @@ This portfolio showcases a selection of simulation projects in this area that I 
 
 ---
 
-## [P009 - IsaacSim – Carter Tricycle Docking & Battery Charging](https://www.dropbox.com/scl/fi/3stscugoptervds65ujqx/Dance-Party-at-AWS-Warehouse-Demo-1-gLH37M3e4e0.mkv?rlkey=izwjhwlei878nc9i16lk7r1id&dl=0)
+## [P009 - IsaacSim – Carter Tricycle Docking & Battery Charging](https://www.dropbox.com/scl/fi/53u29nr03z9l0xowdfp3y/2025.5-isaacsim-carter-dock-battery-charge.mp4?rlkey=ynzuqfl5phmy52ksq3xerczjj&dl=0)
 <table class="content-table"> <tr> <td width="55%"> This advanced IsaacSim demonstration implements a full docking and battery-charging workflow for the Carter tricycle robot. The system combines visual servoing, using both 3D foundation pose estimation of the docking geometry and 2D AprilTag markers, with mission-level orchestration powered by SMACC2. The robot performs multiple navigation tasks in a warehouse environment, autonomously approaching the dock, aligning, and completing the charging maneuver with sub-centimeter precision. This project also had significance in motion planning where visual servoing algorithms with tricycle kinematic constraints were implemented. <br><br> <a href="https://www.dropbox.com/scl/fi/53u29nr03z9l0xowdfp3y/2025.5-isaacsim-carter-dock-battery-charge.mp4?rlkey=ynzuqfl5phmy52ksq3xerczjj&dl=0">Watch Video</a> </td> <td width="45%"> <a href="https://www.dropbox.com/scl/fi/53u29nr03z9l0xowdfp3y/2025.5-isaacsim-carter-dock-battery-charge.mp4?rlkey=ynzuqfl5phmy52ksq3xerczjj&dl=0"><img src="assets/isaacsim-carter-dock-battery-charge.png" alt="IsaacSim Carter Docking and Battery Charging" width="500px"></a> </td> </tr> </table>
 
 ---
