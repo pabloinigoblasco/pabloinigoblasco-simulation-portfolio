@@ -4,6 +4,7 @@ Technical portfolio showcasing a selection of motion planning and control projec
 
 ---
 
+<a id="P002"></a>
 ## [P002 - Autonomous Exploration: RRT Algorithms & SMACC Mission Planning](https://www.dropbox.com/scl/fi/5hy5m0yzjc7wx0zyhlg6v/Autonomous-Exploration-Mapping-with-SMACC-inside-Isaac-Sim-XS5ktWK9F7w.webm?rlkey=nykxxwc8a3u7g57d2ftecm7uw&dl=0)
 
 <table class="content-table">
@@ -25,6 +26,7 @@ This project was quite exciting because it involved porting and adapting RRT (Ra
 
 ---
 
+<a id="P006"></a>
 ## [P006 - Real-Time Shared Control Dynamic Window Approach](https://www.dropbox.com/scl/fi/ihtyuemfca62pxjst077x/2011.Shared-Control-Dynamic-Window-Approach-Shared-DWA-uSe893aEYEk.mp4?rlkey=j5m7e1e06qxptxrib9u39ekjv&dl=0)
 
 <table class="content-table">
@@ -46,6 +48,7 @@ This was one of my earlier research projects that I'm particularly proud of - de
 
 ---
 
+<a id="P009"></a>
 ## [P009 - Visual Servoing with Tricycle Kinematics: Precision Docking Control](https://www.dropbox.com/scl/fi/53u29nr03z9l0xowdfp3y/2025.5-isaacsim-carter-dock-battery-charge.mp4?rlkey=ynzuqfl5phmy52ksq3xerczjj&dl=0)
 
 <table class="content-table">
@@ -67,6 +70,7 @@ Working with the Carter tricycle robot, this project was all about achieving pre
 
 ---
 
+<a id="P015"></a>
 ## [P015 - Mobile AI Platform: Ackermann Steering & TEB Navigation](https://www.dropbox.com/scl/fi/gsraxx5vrmbiuamq136xk/2018.Smart-Car-out-18-024028-combined-mobile-ai-platform.mp4?rlkey=8pdyohek1dqzm4ptiyf3xj1im&dl=0)
 
 <table class="content-table">
@@ -88,6 +92,7 @@ This project involved taking a physical mobile platform and implementing a compl
 
 ---
 
+<a id="P005"></a>
 ## [P005 - Advanced Kinematic Controllers: Multi-Wheel Configuration Research](https://www.dropbox.com/scl/fi/esx5pkcg8r8fc38mzmcvx/2023.12-VIDEO-resumen-xsteer-control-multiple-wheels-gazebo.mp4?rlkey=pndtb57979nmgo16exifyh0vo&dl=0)
 
 <table class="content-table">
@@ -111,6 +116,7 @@ This project involved taking a physical mobile platform and implementing a compl
 
 ---
 
+<a id="P016"></a>
 ## [P016 - MoveIt Manipulation Planning: Sawyer Pick-and-Place (Microsoft)](https://www.dropbox.com/s/xiacde999fngres/sawyer%2020180927_175441.mp4?dl=0)
 
 <table class="content-table">

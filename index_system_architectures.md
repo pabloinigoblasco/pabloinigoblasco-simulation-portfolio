@@ -4,6 +4,7 @@ Technical portfolio showcasing a selection of system architecture and integratio
 
 ---
 
+<a id="P013"></a>
 ## [P013 - MRLink - VR Navigation & Data Collection Architecture with a Quadruped Robot]
 
 <table class="content-table">
@@ -29,6 +30,7 @@ This project was quite ambitious - developing a VR-integrated navigation system 
 
 ---
 
+<a id="P014"></a>
 ## [P014 - NeuronDones - Hazardous Environment Teleoperation Architecture of a Quadruped Robot]
 
 <table class="content-table">
@@ -54,6 +56,7 @@ This project focused on creating an integrated manipulation system for hazardous
 
 ---
 
+<a id="P010"></a>
 ## [P010 - Hierarchical State Machine Architecture: SMACC2 + Nav2 Mission Control](https://www.dropbox.com/scl/fi/3stscugoptervds65ujqx/Dance-Party-at-AWS-Warehouse-Demo-1-gLH37M3e4e0.mkv?rlkey=izwjhwlei878nc9i16lk7r1id&dl=0)
 
 <table class="content-table">
@@ -77,6 +80,7 @@ This project demonstrated how to orchestrate complex robot missions using hierar
 
 ---
 
+<a id="P015"></a>
 ## [P015 - Mobile AI Platform Robotization](https://www.dropbox.com/scl/fi/gsraxx5vrmbiuamq136xk/2018.Smart-Car-out-18-024028-combined-mobile-ai-platform.mp4?rlkey=8pdyohek1dqzm4ptiyf3xj1im&dl=0)
 
 <table class="content-table">
@@ -100,6 +104,7 @@ This was a comprehensive project where I took a completely non-robotized mobile 
 
 ---
 
+<a id="P016"></a>
 ## [P016 - Sawyer Manipulation Cell: Perception + Planning + Task Architecture (Microsoft)](https://www.dropbox.com/s/xiacde999fngres/sawyer%2020180927_175441.mp4?dl=0)
 
 <table class="content-table">
