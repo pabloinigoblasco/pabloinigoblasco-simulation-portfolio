@@ -23,6 +23,7 @@ Complete index of all projects across portfolios, showing project keys and portf
 | **P013** | MRLink VR Navigation Architecture | - | ✅ | - | - | Cross-platform VR navigation and data collection | [Video 1](https://www.dropbox.com/scl/fi/w7hxeghhv6kutikgq73ho/2022.Meet-MRLINK-Spot.mp4?rlkey=1xfdkpo8yqumao0iqwy9mvl0a&dl=0) \| [Video 2](https://www.dropbox.com/scl/fi/gt250oqa9yqcopjjuwk9u/video-holorobot-features-linkedin.mp4?rlkey=rurx22xzqismvjt4hdy8rosvu&dl=0) \| [Image](assets/mrlink-combined.png) \| [LinkedIn](https://www.linkedin.com/posts/pabloinigoblasco_in-the-last-few-months-i-had-the-opportunity-activity-7103189317027586048-f-89) \| [Post](https://www.linkedin.com/posts/qmartinez_mrlink-in-neurondones-activity-7321147566786531328-ZLRL/) |
 | **P014** | NeuronDones Hazardous Environment | - | ✅ | - | - | Multi-robot VR teleoperation for hazardous environments | [Video 1](assets/neuron_dones.mp4) \| [Video 2 WIP](https://www.dropbox.com/scl/fi/4w2duihdmz7fjrueyl2rd/2024-04-17_09-38-06-demo2-neuron-dones-xarm.mkv?rlkey=cmun89u4gmdjq6rli5ngnw64e&dl=0) \| [Image](assets/neurondones-combined.png) \| [LinkedIn](https://www.linkedin.com/posts/jcanton_neurondones-evergine-ros2-activity-7389571943223517184-mHrK) |
 | **P015** | Mobile AI Platform Robotization | - | ✅ | ✅ | ✅ | Full-stack physical mobile base conversion to autonomous AI platform | [Video](https://www.dropbox.com/scl/fi/gsraxx5vrmbiuamq136xk/2018.Smart-Car-out-18-024028-combined-mobile-ai-platform.mp4?rlkey=8pdyohek1dqzm4ptiyf3xj1im&dl=0) \| [Image](assets/mobile_ai_platform.png) |
+| **P016** | Sawyer Cobot Manipulation (Microsoft) | ✅ | ✅ | ✅ | ✅ | OpenCV perception + MoveIt motion planning + task planning, integrated on real Sawyer hardware and in simulation | [Real](https://www.dropbox.com/s/xiacde999fngres/sawyer%2020180927_175441.mp4?dl=0) \| [Simulation](https://www.dropbox.com/s/1y7qb5rqx8l4piz/2019.sawyer-complete.ogv?dl=0) |
 
 ---
 
@@ -30,27 +31,27 @@ Complete index of all projects across portfolios, showing project keys and portf
 
 ### 📱 **Simulation Portfolio** (`index.md`)
 **Focus:** Robotics simulation platforms, virtual environments, and testing frameworks
-- **12 Projects:** P001-P012
+- **13 Projects:** P001–P012, P016
 - **Technologies:** IsaacSim, Gazebo, Unreal Engine, SVL, AIRSIM
-- **Applications:** Autonomous vehicles, warehouse automation, kinematic testing
+- **Applications:** Autonomous vehicles, warehouse automation, kinematic testing, manipulation simulation
 
 ### 🏗️ **System Architectures Portfolio** (`index_system_architectures.md`)
 **Focus:** Multi-platform integration, cross-language architectures, and system design
-- **4 Projects:** P010, P013, P014, P015
-- **Technologies:** Android+C#+ROS2, VR/AR interfaces, Edge AI, SMACC2, Hardware Integration
-- **Applications:** VR teleoperation, hazardous environments, mission control, full-stack robotization
+- **5 Projects:** P010, P013, P014, P015, P016
+- **Technologies:** Android+C#+ROS2, VR/AR interfaces, Edge AI, SMACC2, Hardware Integration, MoveIt + sim/real bridge
+- **Applications:** VR teleoperation, hazardous environments, mission control, full-stack robotization, cobot manipulation cells
 
 ### 🎯 **Motion Planning Portfolio** (`index_motion_planning.md`)
 **Focus:** Control algorithms, motion planning, and precision systems
-- **5 Projects:** P002, P005, P006, P009, P015
-- **Technologies:** RRT Exploration, Nav2 Stack, slam_toolbox, Dynamic Window Approach, Visual Servoing, Multi-Wheel Kinematics, Controller Design, Tricycle Kinematics, Ackermann Steering, TEB Planner
-- **Applications:** Autonomous exploration, kinematic controller research, shared control, precision docking, human-robot collaboration, autonomous navigation
+- **6 Projects:** P002, P005, P006, P009, P015, P016
+- **Technologies:** RRT Exploration, Nav2 Stack, slam_toolbox, Dynamic Window Approach, Visual Servoing, Multi-Wheel Kinematics, Controller Design, Tricycle Kinematics, Ackermann Steering, TEB Planner, MoveIt manipulation planning, task planning
+- **Applications:** Autonomous exploration, kinematic controller research, shared control, precision docking, human-robot collaboration, autonomous navigation, pick-and-place manipulation
 
 ### 🧠 **AI Perception & Cognitive Portfolio** (`index_ai_perception.md`)
 **Focus:** Computer vision, cognitive systems, and AI-driven robot perception
-- **1 Project:** P015
-- **Technologies:** Person detection, PPE detection, safety compliance monitoring, computer vision
-- **Applications:** Workplace safety monitoring, risk compliance, cognitive surveillance systems
+- **2 Projects:** P015, P016
+- **Technologies:** Person detection, PPE detection, safety compliance monitoring, computer vision, OpenCV-based object perception for manipulation
+- **Applications:** Workplace safety monitoring, risk compliance, cognitive surveillance systems, manipulation perception
 
 ---
 
@@ -81,6 +82,12 @@ Complete index of all projects across portfolios, showing project keys and portf
 - **Motion Planning View:** Ackermann steering model, TEB planner adaptation, and real-world autonomous navigation
 - **AI Perception View:** Person detection, PPE compliance monitoring, and cognitive surveillance for workplace safety
 
+### **P016 - Sawyer Cobot Manipulation (Microsoft)**
+- **Simulation View:** Sawyer 7-DoF cobot simulated with MoveIt for motion planning and task validation
+- **Architectures View:** Integration of perception, motion planning, task planning and physical hardware in a single sim/real cell
+- **Motion Planning View:** MoveIt-based manipulation planning and task sequencing for pick-and-place
+- **AI Perception View:** OpenCV-based object detection and pose estimation feeding the manipulation pipeline
+
 ---
 
 ## Technology Stack Summary
@@ -108,15 +115,19 @@ Complete index of all projects across portfolios, showing project keys and portf
 ### **Robot Platforms**
 - Boston Dynamics Spot
 - Kinova Gen3 + Allegro Hand V4
+- uFactory xArm 850 (in-house)
+- Sawyer 7-DoF cobot (Rethink Robotics)
 - Carter Tricycle
 - Various wheeled platforms
 - Autonomous vehicles
+- Cobot vendor exposure: Universal Robots, KUKA, ABB, Rethink Robotics, uFactory
 
 ---
 
 ## Project Timeline & Clients
 
 - **2011-2012:** P006 (Research publication)
+- **2018-2019:** P016 (Sawyer cobot manipulation, Microsoft)
 - **2022:** P001 (Autoware/SVL)
 - **2023:** P003, P004, P005, P008 (Various kinematic and navigation projects)
 - **2024:** P002, P009, P010, P011, P012 (IsaacSim and advanced simulations)
@@ -124,7 +135,7 @@ Complete index of all projects across portfolios, showing project keys and portf
 
 **Client Work:**
 - **NVIDIA:** P002 (IsaacSim warehouse)
-- **Microsoft:** P007, P012 (AIRSIM, GazeboSIM)
+- **Microsoft:** P007, P012, P016 (AIRSIM, GazeboSIM, Sawyer manipulation)
 - **PlainConcepts:** P013, P014 (MRLink, NeuronDones)
 
 ---

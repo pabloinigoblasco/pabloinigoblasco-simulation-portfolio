@@ -18,7 +18,7 @@ This project was quite exciting because it involved porting and adapting RRT (Ra
       <a href="https://www.dropbox.com/scl/fi/5hy5m0yzjc7wx0zyhlg6v/Autonomous-Exploration-Mapping-with-SMACC-inside-Isaac-Sim-XS5ktWK9F7w.webm?rlkey=nykxxwc8a3u7g57d2ftecm7uw&dl=0">Watch Video</a> · <a href="https://www.linkedin.com/posts/pabloinigoblasco_id-like-to-show-off-an-autonomous-exploration-activity-7122635798205652992-u2xs">LinkedIn Post</a>
     </td>
     <td width="45%">
-      <img src="assets/p02_isaacsim_warehouse_exploration.png" alt="RRT Autonomous Exploration Planning" width="500px">
+      <a href="https://www.dropbox.com/scl/fi/5hy5m0yzjc7wx0zyhlg6v/Autonomous-Exploration-Mapping-with-SMACC-inside-Isaac-Sim-XS5ktWK9F7w.webm?rlkey=nykxxwc8a3u7g57d2ftecm7uw&dl=0"><img src="assets/p02_isaacsim_warehouse_exploration.png" alt="RRT Autonomous Exploration Planning" width="500px"></a>
     </td>
   </tr>
 </table>
@@ -39,7 +39,7 @@ This was one of my earlier research projects that I'm particularly proud of - de
       <a href="https://www.dropbox.com/scl/fi/ihtyuemfca62pxjst077x/2011.Shared-Control-Dynamic-Window-Approach-Shared-DWA-uSe893aEYEk.mp4?rlkey=j5m7e1e06qxptxrib9u39ekjv&dl=0">Watch Video</a>
     </td>
     <td width="45%">
-      <img src="assets/p06_shared_control_dwa.png" alt="Shared Control DWA Motion Planning" width="500px">
+      <a href="https://www.dropbox.com/scl/fi/ihtyuemfca62pxjst077x/2011.Shared-Control-Dynamic-Window-Approach-Shared-DWA-uSe893aEYEk.mp4?rlkey=j5m7e1e06qxptxrib9u39ekjv&dl=0"><img src="assets/p06_shared_control_dwa.png" alt="Shared Control DWA Motion Planning" width="500px"></a>
     </td>
   </tr>
 </table>
@@ -60,7 +60,7 @@ Working with the Carter tricycle robot, this project was all about achieving pre
       <a href="https://www.dropbox.com/scl/fi/53u29nr03z9l0xowdfp3y/2025.5-isaacsim-carter-dock-battery-charge.mp4?rlkey=ynzuqfl5phmy52ksq3xerczjj&dl=0">Watch Video</a>
     </td>
     <td width="45%">
-      <img src="assets/isaacsim-carter-dock-battery-charge.png" alt="Tricycle Kinematics Visual Servoing" width="500px">
+      <a href="https://www.dropbox.com/scl/fi/53u29nr03z9l0xowdfp3y/2025.5-isaacsim-carter-dock-battery-charge.mp4?rlkey=ynzuqfl5phmy52ksq3xerczjj&dl=0"><img src="assets/isaacsim-carter-dock-battery-charge.png" alt="Tricycle Kinematics Visual Servoing" width="500px"></a>
     </td>
   </tr>
 </table>
@@ -81,7 +81,7 @@ This project involved taking a physical mobile platform and implementing a compl
       <a href="https://www.dropbox.com/scl/fi/gsraxx5vrmbiuamq136xk/2018.Smart-Car-out-18-024028-combined-mobile-ai-platform.mp4?rlkey=8pdyohek1dqzm4ptiyf3xj1im&dl=0">Watch Video</a>
     </td>
     <td width="45%">
-      <img src="assets/mobile_ai_platform.png" alt="Ackermann Steering Motion Planning" width="500px">
+      <a href="https://www.dropbox.com/scl/fi/gsraxx5vrmbiuamq136xk/2018.Smart-Car-out-18-024028-combined-mobile-ai-platform.mp4?rlkey=8pdyohek1dqzm4ptiyf3xj1im&dl=0"><img src="assets/mobile_ai_platform.png" alt="Ackermann Steering Motion Planning" width="500px"></a>
     </td>
   </tr>
 </table>
@@ -104,7 +104,32 @@ This project involved taking a physical mobile platform and implementing a compl
       <strong>Videos:</strong> <a href="https://www.dropbox.com/scl/fi/esx5pkcg8r8fc38mzmcvx/2023.12-VIDEO-resumen-xsteer-control-multiple-wheels-gazebo.mp4?rlkey=pndtb57979nmgo16exifyh0vo&dl=0">Gazebo Implementation</a> · <a href="https://www.dropbox.com/scl/fi/twt1yftzmzue24pqz5rdb/2024-01-09-multiwheel_x_steer_isaacsim.mkv?rlkey=nx0xdiwklp2cuprbm9lpqxard&dl=0">IsaacSim Version</a>
     </td>
     <td width="45%">
-      <img src="assets/p05_kynodinamic_wheel_control.png" alt="Multi-Wheel Kinematic Controllers" width="500px">
+      <a href="https://www.dropbox.com/scl/fi/esx5pkcg8r8fc38mzmcvx/2023.12-VIDEO-resumen-xsteer-control-multiple-wheels-gazebo.mp4?rlkey=pndtb57979nmgo16exifyh0vo&dl=0"><img src="assets/p05_kynodinamic_wheel_control.png" alt="Multi-Wheel Kinematic Controllers" width="500px"></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## [P016 - MoveIt Manipulation Planning: Sawyer Pick-and-Place (Microsoft)](https://www.dropbox.com/s/xiacde999fngres/sawyer%2020180927_175441.mp4?dl=0)
+
+<table class="content-table">
+  <tr>
+    <td width="55%">
+For this Microsoft project, I implemented MoveIt-based manipulation planning on a Sawyer 7-DoF cobot for pick-and-place of multi-coloured objects. The focus was task-level motion sequencing: generating collision-aware trajectories from a current configuration to grasp poses derived from perception, then to deposit poses, then back to a home configuration — repeated across multiple objects with varying positions and orientations.
+      <br><br>
+      Working with the Sawyer's 7-DoF redundancy meant exploring inverse kinematics solutions that balanced manipulability, joint-limit margins, and approach-direction constraints for reliable grasping. I used MoveIt for trajectory generation and validated the planning pipeline first in simulation before deploying to real hardware, so the same motion plans had to work consistently across both. The contribution was a clean task-planning layer above MoveIt that handled pick-and-place sequencing as a primitive rather than ad-hoc scripting per object.
+      <br><br>
+      This project also had significance in system architecture, where integration of perception, motion planning and physical hardware was developed in a single coherent cell.
+      <br><br>
+      <strong>Videos:</strong> <a href="https://www.dropbox.com/s/xiacde999fngres/sawyer%2020180927_175441.mp4?dl=0">Real Hardware</a> · <a href="https://www.dropbox.com/s/1y7qb5rqx8l4piz/2019.sawyer-complete.ogv?dl=0">Simulation</a>
+    </td>
+    <td width="45%">
+      <strong>Real hardware:</strong><br>
+      <a href="https://www.dropbox.com/s/xiacde999fngres/sawyer%2020180927_175441.mp4?dl=0"><img src="assets/p16_sawyer_real.png" alt="Sawyer Real Hardware MoveIt Pick-and-Place" width="500px"></a>
+      <br><br>
+      <strong>Simulation:</strong><br>
+      <a href="https://www.dropbox.com/s/1y7qb5rqx8l4piz/2019.sawyer-complete.ogv?dl=0"><img src="assets/p16_sawyer_simulation.png" alt="Sawyer Simulation MoveIt Planning" width="500px"></a>
     </td>
   </tr>
 </table>

@@ -22,7 +22,7 @@ This project was quite ambitious - developing a VR-integrated navigation system 
       <a href="https://www.linkedin.com/posts/pabloinigoblasco_in-the-last-few-months-i-had-the-opportunity-activity-7103189317027586048-f-89">Technical Architecture</a> · <a href="https://www.linkedin.com/posts/qmartinez_mrlink-in-neurondones-activity-7321147566786531328-ZLRL/">MRLink Post</a>
     </td>
     <td width="45%">
-      <img src="assets/mrlink-combined.png" alt="MRLink VR Navigation Architecture" width="500px">
+      <a href="https://www.dropbox.com/scl/fi/w7hxeghhv6kutikgq73ho/2022.Meet-MRLINK-Spot.mp4?rlkey=1xfdkpo8yqumao0iqwy9mvl0a&dl=0"><img src="assets/mrlink-combined.png" alt="MRLink VR Navigation Architecture" width="500px"></a>
     </td>
   </tr>
 </table>
@@ -47,7 +47,7 @@ This project focused on creating an integrated manipulation system for hazardous
       <a href="https://www.linkedin.com/posts/jcanton_neurondones-evergine-ros2-activity-7389571943223517184-mHrK">Technical Demo</a>
     </td>
     <td width="45%">
-      <img src="assets/neurondones-combined.png" alt="NeuronDones Manipulation Architecture" width="500px">
+      <a href="assets/neuron_dones.mp4"><img src="assets/neurondones-combined.png" alt="NeuronDones Manipulation Architecture" width="500px"></a>
     </td>
   </tr>
 </table>
@@ -70,7 +70,7 @@ This project demonstrated how to orchestrate complex robot missions using hierar
       <strong>Videos:</strong> <a href="https://www.dropbox.com/scl/fi/3stscugoptervds65ujqx/Dance-Party-at-AWS-Warehouse-Demo-1-gLH37M3e4e0.mkv?rlkey=izwjhwlei878nc9i16lk7r1id&dl=0">Demo 1</a> · <a href="https://www.dropbox.com/scl/fi/uyq7pqbp2z6413pogawwn/Dance-Party-at-AWS-Warehouse-Demo-2-A3kmCQS_ww8.mkv?rlkey=z0cvx7nhpcy5i72in3wp221pg&dl=0">Demo 2</a> · <a href="https://www.dropbox.com/scl/fi/7tbyr3a04w4k7ntsshmfe/Dance-Party-at-AWS-Warehouse-Demo-3-_4QZdvdTptI.mkv?rlkey=bgahwp6m6sh453i4rs1a0wa2d&dl=0">Demo 3</a>
     </td>
     <td width="45%">
-      <img src="assets/aws-warehouse-dance-demo.png" alt="SMACC2 Hierarchical Mission Architecture" width="500px">
+      <a href="https://www.dropbox.com/scl/fi/3stscugoptervds65ujqx/Dance-Party-at-AWS-Warehouse-Demo-1-gLH37M3e4e0.mkv?rlkey=izwjhwlei878nc9i16lk7r1id&dl=0"><img src="assets/aws-warehouse-dance-demo.png" alt="SMACC2 Hierarchical Mission Architecture" width="500px"></a>
     </td>
   </tr>
 </table>
@@ -93,7 +93,32 @@ This was a comprehensive project where I took a completely non-robotized mobile 
       <a href="https://www.dropbox.com/scl/fi/gsraxx5vrmbiuamq136xk/2018.Smart-Car-out-18-024028-combined-mobile-ai-platform.mp4?rlkey=8pdyohek1dqzm4ptiyf3xj1im&dl=0">Watch Video</a>
     </td>
     <td width="45%">
-      <img src="assets/mobile_ai_platform.png" alt="Mobile AI Platform Hardware Integration" width="500px">
+      <a href="https://www.dropbox.com/scl/fi/gsraxx5vrmbiuamq136xk/2018.Smart-Car-out-18-024028-combined-mobile-ai-platform.mp4?rlkey=8pdyohek1dqzm4ptiyf3xj1im&dl=0"><img src="assets/mobile_ai_platform.png" alt="Mobile AI Platform Hardware Integration" width="500px"></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## [P016 - Sawyer Manipulation Cell: Perception + Planning + Task Architecture (Microsoft)](https://www.dropbox.com/s/xiacde999fngres/sawyer%2020180927_175441.mp4?dl=0)
+
+<table class="content-table">
+  <tr>
+    <td width="55%">
+This Microsoft project required integrating perception, motion planning, task planning, and physical hardware into a single coherent manipulation cell around a Sawyer 7-DoF cobot. The architectural challenge was orchestrating a heterogeneous stack — OpenCV for vision, MoveIt for motion planning, custom task-level coordination logic, and real Sawyer hardware control — into a unified pipeline that worked identically in simulation and on physical hardware.
+      <br><br>
+      The architecture separated concerns cleanly: a perception layer producing object poses, a planning layer consuming poses and generating collision-aware trajectories, a task layer sequencing pick-and-place operations across multiple object instances, and a hardware abstraction that bridged the simulated Sawyer (V-REP/CoppeliaSim) and the real Rethink Robotics Sawyer using common interfaces. This sim/real symmetry was the architectural innovation — algorithms developed in simulation transferred without modification to physical hardware.
+      <br><br>
+      This project also had significance in motion planning, where MoveIt-based manipulation planning and task sequencing were developed, and in AI perception, where OpenCV-based object detection and pose estimation fed the manipulation pipeline.
+      <br><br>
+      <strong>Videos:</strong> <a href="https://www.dropbox.com/s/xiacde999fngres/sawyer%2020180927_175441.mp4?dl=0">Real Hardware</a> · <a href="https://www.dropbox.com/s/1y7qb5rqx8l4piz/2019.sawyer-complete.ogv?dl=0">Simulation</a>
+    </td>
+    <td width="45%">
+      <strong>Real hardware:</strong><br>
+      <a href="https://www.dropbox.com/s/xiacde999fngres/sawyer%2020180927_175441.mp4?dl=0"><img src="assets/p16_sawyer_real.png" alt="Sawyer Real Hardware Manipulation Architecture" width="500px"></a>
+      <br><br>
+      <strong>Simulation:</strong><br>
+      <a href="https://www.dropbox.com/s/1y7qb5rqx8l4piz/2019.sawyer-complete.ogv?dl=0"><img src="assets/p16_sawyer_simulation.png" alt="Sawyer Simulation Architecture" width="500px"></a>
     </td>
   </tr>
 </table>

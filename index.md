@@ -14,7 +14,7 @@ This portfolio showcases a selection of simulation projects in this area that I 
       <a href="https://www.dropbox.com/scl/fi/ygnbxx0pqw6shmrgc01pa/2022-01-21-21-05-19_2-autoware-Final.mp4?rlkey=3isp8b2jccr71of2l99mluf93&dl=0">Watch Video</a>
     </td>
     <td width="45%">
-      <img src="assets/p01_autoware_svl_simulation.png" alt="Autoware and SVL Simulation for Autonomous Vehicles" width="500px">
+      <a href="https://www.dropbox.com/scl/fi/ygnbxx0pqw6shmrgc01pa/2022-01-21-21-05-19_2-autoware-Final.mp4?rlkey=3isp8b2jccr71of2l99mluf93&dl=0"><img src="assets/p01_autoware_svl_simulation.png" alt="Autoware and SVL Simulation for Autonomous Vehicles" width="500px"></a>
     </td>
   </tr>
 </table>
@@ -31,7 +31,7 @@ This portfolio showcases a selection of simulation projects in this area that I 
       <a href="https://www.dropbox.com/scl/fi/5hy5m0yzjc7wx0zyhlg6v/Autonomous-Exploration-Mapping-with-SMACC-inside-Isaac-Sim-XS5ktWK9F7w.webm?rlkey=nykxxwc8a3u7g57d2ftecm7uw&dl=0">Watch Video</a>
     </td>
     <td width="45%">
-      <img src="assets/p02_isaacsim_warehouse_exploration.png" alt="IsaacSim Warehouse Exploration for Nvidia" width="500px">
+      <a href="https://www.dropbox.com/scl/fi/5hy5m0yzjc7wx0zyhlg6v/Autonomous-Exploration-Mapping-with-SMACC-inside-Isaac-Sim-XS5ktWK9F7w.webm?rlkey=nykxxwc8a3u7g57d2ftecm7uw&dl=0"><img src="assets/p02_isaacsim_warehouse_exploration.png" alt="IsaacSim Warehouse Exploration for Nvidia" width="500px"></a>
     </td>
   </tr>
 </table>
@@ -48,7 +48,7 @@ This portfolio showcases a selection of simulation projects in this area that I 
       <a href="https://www.dropbox.com/scl/fi/1suxnatav0icx3rtibpxr/2024-01-11-11-23-45_x_steer_isaacsim.mkv?rlkey=uh4yt35xz8jck777cvf5llr6k&dl=0">Watch Video</a>
     </td>
     <td width="45%">
-      <img src="assets/p03_isaacsim_wheeled_kinematics.png" alt="IsaacSim – Wheeled Robot Kinematics Testing" width="500px">
+      <a href="https://www.dropbox.com/scl/fi/1suxnatav0icx3rtibpxr/2024-01-11-11-23-45_x_steer_isaacsim.mkv?rlkey=uh4yt35xz8jck777cvf5llr6k&dl=0"><img src="assets/p03_isaacsim_wheeled_kinematics.png" alt="IsaacSim – Wheeled Robot Kinematics Testing" width="500px"></a>
     </td>
   </tr>
 </table>
@@ -65,7 +65,7 @@ This portfolio showcases a selection of simulation projects in this area that I 
       <a href="https://www.dropbox.com/scl/fi/7s3d8c1pth8kllrj8ot9n/2023-08-15-23-16-09-unreal-engine-art-gallery.mp4?rlkey=tki20qnaosl4l6o58yxz6bnvb&dl=0">Watch Video</a>
     </td>
     <td width="45%">
-      <img src="assets/p04_ros2_unreal_navigation.png" alt="ROS2 Navigation Stack with Unreal Engine Integration" width="500px">
+      <a href="https://www.dropbox.com/scl/fi/7s3d8c1pth8kllrj8ot9n/2023-08-15-23-16-09-unreal-engine-art-gallery.mp4?rlkey=tki20qnaosl4l6o58yxz6bnvb&dl=0"><img src="assets/p04_ros2_unreal_navigation.png" alt="ROS2 Navigation Stack with Unreal Engine Integration" width="500px"></a>
     </td>
   </tr>
 </table>
@@ -82,7 +82,7 @@ This portfolio showcases a selection of simulation projects in this area that I 
       <a href="https://www.dropbox.com/scl/fi/esx5pkcg8r8fc38mzmcvx/2023.12-VIDEO-resumen-xsteer-control-multiple-wheels-gazebo.mp4?rlkey=pndtb57979nmgo16exifyh0vo&dl=0">Watch Video</a>
     </td>
     <td width="45%">
-      <img src="assets/p05_wheeled_kinematic_research.png" alt="Research in Wheeled Mobile Robot Kinematic Control" width="500px">
+      <a href="https://www.dropbox.com/scl/fi/esx5pkcg8r8fc38mzmcvx/2023.12-VIDEO-resumen-xsteer-control-multiple-wheels-gazebo.mp4?rlkey=pndtb57979nmgo16exifyh0vo&dl=0"><img src="assets/p05_wheeled_kinematic_research.png" alt="Research in Wheeled Mobile Robot Kinematic Control" width="500px"></a>
     </td>
   </tr>
 </table>
@@ -99,7 +99,7 @@ This portfolio showcases a selection of simulation projects in this area that I 
       <a href="https://www.dropbox.com/scl/fi/ihtyuemfca62pxjst077x/2011.Shared-Control-Dynamic-Window-Approach-Shared-DWA-uSe893aEYEk.mp4?rlkey=j5m7e1e06qxptxrib9u39ekjv&dl=0">Watch Video</a>
     </td>
     <td width="45%">
-      <img src="assets/p06_shared_control_dwa.png" alt="Real-Time Shared Control with Stage Simulator" width="500px">
+      <a href="https://www.dropbox.com/scl/fi/ihtyuemfca62pxjst077x/2011.Shared-Control-Dynamic-Window-Approach-Shared-DWA-uSe893aEYEk.mp4?rlkey=j5m7e1e06qxptxrib9u39ekjv&dl=0"><img src="assets/p06_shared_control_dwa.png" alt="Real-Time Shared Control with Stage Simulator" width="500px"></a>
     </td>
   </tr>
 </table>
@@ -116,7 +116,7 @@ This portfolio showcases a selection of simulation projects in this area that I 
       <a href="https://www.dropbox.com/scl/fi/79mcdakyy5q60whp7hbj3/AIRSIM-cloud-testing.mp4?dl=0">Watch Video</a>
     </td>
     <td width="45%">
-      <img src="assets/p07_airsim_cloud_testing.png" alt="AIRSIM Cloud Batch Testing for Microsoft" width="500px">
+      <a href="https://www.dropbox.com/scl/fi/79mcdakyy5q60whp7hbj3/AIRSIM-cloud-testing.mp4?dl=0"><img src="assets/p07_airsim_cloud_testing.png" alt="AIRSIM Cloud Batch Testing for Microsoft" width="500px"></a>
     </td>
   </tr>
 </table>
@@ -133,7 +133,7 @@ This portfolio showcases a selection of simulation projects in this area that I 
       <a href="https://www.dropbox.com/scl/fi/hdyhm1dc7gk0k9al3fyk2/2023-08-29-SMACC2-unreal-UE-mine-warhog-waypoints.mp4?rlkey=e8b1arq6irw9qgdk00hf06y8m&dl=0">Watch Video</a>
     </td>
     <td width="45%">
-      <img src="assets/p08_warhog_mining_navigation.png" alt="Warhog Robot Mining Navigation – Unreal Engine" width="500px">
+      <a href="https://www.dropbox.com/scl/fi/hdyhm1dc7gk0k9al3fyk2/2023-08-29-SMACC2-unreal-UE-mine-warhog-waypoints.mp4?rlkey=e8b1arq6irw9qgdk00hf06y8m&dl=0"><img src="assets/p08_warhog_mining_navigation.png" alt="Warhog Robot Mining Navigation – Unreal Engine" width="500px"></a>
     </td>
   </tr>
 </table>
@@ -141,12 +141,12 @@ This portfolio showcases a selection of simulation projects in this area that I 
 ---
 
 ## [P009 - IsaacSim – Carter Tricycle Docking & Battery Charging](https://www.dropbox.com/scl/fi/3stscugoptervds65ujqx/Dance-Party-at-AWS-Warehouse-Demo-1-gLH37M3e4e0.mkv?rlkey=izwjhwlei878nc9i16lk7r1id&dl=0)
-<table class="content-table"> <tr> <td width="55%"> This advanced IsaacSim demonstration implements a full docking and battery-charging workflow for the Carter tricycle robot. The system combines visual servoing, using both 3D foundation pose estimation of the docking geometry and 2D AprilTag markers, with mission-level orchestration powered by SMACC2. The robot performs multiple navigation tasks in a warehouse environment, autonomously approaching the dock, aligning, and completing the charging maneuver with sub-centimeter precision. This project also had significance in motion planning where visual servoing algorithms with tricycle kinematic constraints were implemented. <br><br> <a href="https://www.dropbox.com/scl/fi/53u29nr03z9l0xowdfp3y/2025.5-isaacsim-carter-dock-battery-charge.mp4?rlkey=ynzuqfl5phmy52ksq3xerczjj&dl=0">Watch Video</a> </td> <td width="45%"> <img src="assets/isaacsim-carter-dock-battery-charge.png" alt="IsaacSim Carter Docking and Battery Charging" width="500px"> </td> </tr> </table>
+<table class="content-table"> <tr> <td width="55%"> This advanced IsaacSim demonstration implements a full docking and battery-charging workflow for the Carter tricycle robot. The system combines visual servoing, using both 3D foundation pose estimation of the docking geometry and 2D AprilTag markers, with mission-level orchestration powered by SMACC2. The robot performs multiple navigation tasks in a warehouse environment, autonomously approaching the dock, aligning, and completing the charging maneuver with sub-centimeter precision. This project also had significance in motion planning where visual servoing algorithms with tricycle kinematic constraints were implemented. <br><br> <a href="https://www.dropbox.com/scl/fi/53u29nr03z9l0xowdfp3y/2025.5-isaacsim-carter-dock-battery-charge.mp4?rlkey=ynzuqfl5phmy52ksq3xerczjj&dl=0">Watch Video</a> </td> <td width="45%"> <a href="https://www.dropbox.com/scl/fi/53u29nr03z9l0xowdfp3y/2025.5-isaacsim-carter-dock-battery-charge.mp4?rlkey=ynzuqfl5phmy52ksq3xerczjj&dl=0"><img src="assets/isaacsim-carter-dock-battery-charge.png" alt="IsaacSim Carter Docking and Battery Charging" width="500px"></a> </td> </tr> </table>
 
 ---
 
 ## [P010 - Warehouse Mission-Level & Navigation Dancing Demo (Gazebo + Nav2 + SMACC2)](https://www.dropbox.com/scl/fi/3stscugoptervds65ujqx/Dance-Party-at-AWS-Warehouse-Demo-1-gLH37M3e4e0.mkv?rlkey=izwjhwlei878nc9i16lk7r1id&dl=0)
-<table class="content-table"> <tr> <td width="55%"> This Gazebo Classic demonstration shows mission-level behaviors orchestrated using SMACC2 together with the Navigation2 stack. A differential-drive robot executes a variety of scripted capabilities: forward and backward trajectories, pure spin motions, free navigation, trajectory undoing, and a coordinated "dance routine" inside a warehouse environment. The demo highlights how SMACC2 can express high-level robot behavior sequences on top of Nav2 primitives. This project also had significance in system architecture where hierarchical state machine design for mission control was developed. <br><br> **Videos:** <a href="https://www.dropbox.com/scl/fi/3stscugoptervds65ujqx/Dance-Party-at-AWS-Warehouse-Demo-1-gLH37M3e4e0.mkv?rlkey=izwjhwlei878nc9i16lk7r1id&dl=0">Demo 1</a> · <a href="https://www.dropbox.com/scl/fi/uyq7pqbp2z6413pogawwn/Dance-Party-at-AWS-Warehouse-Demo-2-A3kmCQS_ww8.mkv?rlkey=z0cvx7nhpcy5i72in3wp221pg&dl=0">Demo 2</a> · <a href="https://www.dropbox.com/scl/fi/7tbyr3a04w4k7ntsshmfe/Dance-Party-at-AWS-Warehouse-Demo-3-_4QZdvdTptI.mkv?rlkey=bgahwp6m6sh453i4rs1a0wa2d&dl=0">Demo 3</a> </td> <td width="45%"> <img src="assets/aws-warehouse-dance-demo.png" alt="Warehouse Robot Dancing Demo with Nav2 and SMACC2" width="500px"> </td> </tr> </table>
+<table class="content-table"> <tr> <td width="55%"> This Gazebo Classic demonstration shows mission-level behaviors orchestrated using SMACC2 together with the Navigation2 stack. A differential-drive robot executes a variety of scripted capabilities: forward and backward trajectories, pure spin motions, free navigation, trajectory undoing, and a coordinated "dance routine" inside a warehouse environment. The demo highlights how SMACC2 can express high-level robot behavior sequences on top of Nav2 primitives. This project also had significance in system architecture where hierarchical state machine design for mission control was developed. <br><br> **Videos:** <a href="https://www.dropbox.com/scl/fi/3stscugoptervds65ujqx/Dance-Party-at-AWS-Warehouse-Demo-1-gLH37M3e4e0.mkv?rlkey=izwjhwlei878nc9i16lk7r1id&dl=0">Demo 1</a> · <a href="https://www.dropbox.com/scl/fi/uyq7pqbp2z6413pogawwn/Dance-Party-at-AWS-Warehouse-Demo-2-A3kmCQS_ww8.mkv?rlkey=z0cvx7nhpcy5i72in3wp221pg&dl=0">Demo 2</a> · <a href="https://www.dropbox.com/scl/fi/7tbyr3a04w4k7ntsshmfe/Dance-Party-at-AWS-Warehouse-Demo-3-_4QZdvdTptI.mkv?rlkey=bgahwp6m6sh453i4rs1a0wa2d&dl=0">Demo 3</a> </td> <td width="45%"> <a href="https://www.dropbox.com/scl/fi/3stscugoptervds65ujqx/Dance-Party-at-AWS-Warehouse-Demo-1-gLH37M3e4e0.mkv?rlkey=izwjhwlei878nc9i16lk7r1id&dl=0"><img src="assets/aws-warehouse-dance-demo.png" alt="Warehouse Robot Dancing Demo with Nav2 and SMACC2" width="500px"></a> </td> </tr> </table>
 
 ---
 
@@ -160,7 +160,7 @@ This portfolio showcases a selection of simulation projects in this area that I 
       <a href="https://www.dropbox.com/scl/fi/79mcdakyy5q60whp7hbj3/Navigation-Manipulation-Gazebo.mp4?dl=0">Watch Video</a>
     </td>
     <td width="45%">
-      <img src="assets/p11_navigation_manipulation_gazebo.png" alt="Navigation and Manipulation with ROS2 in Gazebo Classic" width="500px">
+      <a href="https://www.dropbox.com/scl/fi/79mcdakyy5q60whp7hbj3/Navigation-Manipulation-Gazebo.mp4?dl=0"><img src="assets/p11_navigation_manipulation_gazebo.png" alt="Navigation and Manipulation with ROS2 in Gazebo Classic" width="500px"></a>
     </td>
   </tr>
 </table>
@@ -177,7 +177,30 @@ This portfolio showcases a selection of simulation projects in this area that I 
       <a href="https://www.dropbox.com/scl/fi/29rj34hqz3dl2/LargeScaleSimulation-GazeboSIM.mp4?dl=0">Watch Video</a>
     </td>
     <td width="45%">
-      <img src="assets/p12_gazebosim_large_scale.png" alt="New GazeboSIM for Microsoft: Large-Scale Simulation" width="500px">
+      <a href="https://www.dropbox.com/scl/fi/29rj34hqz3dl2/LargeScaleSimulation-GazeboSIM.mp4?dl=0"><img src="assets/p12_gazebosim_large_scale.png" alt="New GazeboSIM for Microsoft: Large-Scale Simulation" width="500px"></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## [P016 - Sawyer Cobot Manipulation: Sim+Real Cell for Microsoft](https://www.dropbox.com/s/xiacde999fngres/sawyer%2020180927_175441.mp4?dl=0)
+
+<table class="content-table">
+  <tr>
+    <td width="55%">
+      This Microsoft project involved building a complete sim+real manipulation cell around a Sawyer 7-DoF collaborative robot. I developed the full simulation environment first — kinematic and dynamic models of Sawyer driven by MoveIt motion planning — and then transferred the pipeline to physical hardware. The simulation served as the validation platform for the perception → planning → execution loop before deployment on the real cell.
+      <br><br>
+      The cell performs pick-and-place of multi-coloured cubes, with OpenCV-based object detection feeding object poses into MoveIt for trajectory generation. Working in simulation first allowed iterative refinement of grasping strategies, motion plans, and edge-case handling without risk to the real hardware. This project demonstrates the full end-to-end sim/real bridge in an industrial cobot manipulation context.
+      <br><br>
+      <strong>Videos:</strong> <a href="https://www.dropbox.com/s/xiacde999fngres/sawyer%2020180927_175441.mp4?dl=0">Real Hardware</a> · <a href="https://www.dropbox.com/s/1y7qb5rqx8l4piz/2019.sawyer-complete.ogv?dl=0">Simulation</a>
+    </td>
+    <td width="45%">
+      <strong>Real hardware:</strong><br>
+      <a href="https://www.dropbox.com/s/xiacde999fngres/sawyer%2020180927_175441.mp4?dl=0"><img src="assets/p16_sawyer_real.png" alt="Sawyer Real Hardware Manipulation Cell" width="500px"></a>
+      <br><br>
+      <strong>Simulation:</strong><br>
+      <a href="https://www.dropbox.com/s/1y7qb5rqx8l4piz/2019.sawyer-complete.ogv?dl=0"><img src="assets/p16_sawyer_simulation.png" alt="Sawyer Simulation MoveIt Pipeline" width="500px"></a>
     </td>
   </tr>
 </table>
